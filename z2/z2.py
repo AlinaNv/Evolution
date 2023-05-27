@@ -1,0 +1,11 @@
+#coding=windows-1251
+print("Введите этапы развития человека")
+a1= input("")
+a2= input("")
+a3= input("")
+a4= input("")
+a5= input("")
+print("Ваш ответ:") 
+print(a1, a2, a3,a4, a5, sep='=>')
+print("Верный ответ:")
+print("homo habilis", "homo erectus", "homo heidelbergensis", "homo sapiens neanderthalensis", "homo sapiens", sep='=>')
